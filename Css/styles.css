@@ -1,0 +1,42 @@
+.header{
+    background-color: #323b41; 
+}
+
+.carousel-caption{
+text-align: right;
+}
+    
+.nav_links li{
+    display: inline ;
+}
+
+.badge{
+    width: 70px;
+}
+
+p.card.text{
+    text-align: left;
+}
+
+.btn.btn-secondary.btn-md{
+    display: flex;
+}
+
+.container{
+  text-align: center;
+}
+
+.boton{
+   font-size: 22px;
+   border-color: #81c53d; 
+}
+
+.contenedor{
+    display: flex;
+    list-style:none;
+    text-decoration:none;
+    justify-content: space-around;
+    flex-grow: 1;
+}
+
+
