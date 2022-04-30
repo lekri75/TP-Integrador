@@ -6,8 +6,10 @@
 text-align: right;
 }
     
-.nav_links li{
-    display: inline ;
+.navbar-nav.navbar-right {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
 }
 
 .badge{
