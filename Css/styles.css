@@ -3,7 +3,8 @@
 }
 
 .carousel-caption{
-text-align: right;
+  text-align: right;
+  position: absolute;
 }
     
 .navbar-nav.navbar-right {
@@ -21,7 +22,9 @@ p.card.text{
 }
 
 .btn.btn-secondary.btn-md{
-    display: flex;
+ display: flex;
+ justify-content: flex-start;
+ align-items: flex-start;
 }
 
 .container{
